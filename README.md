@@ -1,6 +1,6 @@
 [App Store]: https://apple.co/458U0ul
 [React Native]: https://github.com/facebook/react-native
-[TypeScript]: https://github.com/microsoft/TypeScript
+[TypeScript]: https://github.com/microsoft/TypeScriptd
 [Firebase]: https://github.com/invertase/react-native-firebase
 [CodePush]: https://github.com/microsoft/react-native-code-push
 [React Navigation]: https://github.com/react-navigation/react-navigation
